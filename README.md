@@ -4,4 +4,4 @@ Desktop veiw:
 ![](design/desktop-design.jpg)
 
 Mobile veiw:
-[](design/mobile-design.jpg)
+![](design/mobile-design.jpg)
